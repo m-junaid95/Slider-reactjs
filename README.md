@@ -1,3 +1,4 @@
 # react-projects-7-slider
 # DEMO
-![reviews](https://user-images.githubusercontent.com/101246922/161320217-b067434c-d97e-4d4c-afa1-499e4c689d82.gif)
+![slider](https://user-images.githubusercontent.com/101246922/161321629-6502fe79-2808-4e7a-b6a2-afa707edbf13.gif)
+
